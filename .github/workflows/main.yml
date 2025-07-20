@@ -21,4 +21,5 @@ jobs:
       run: npm install
 
     - name: Run Game Engine
-      run: node src/index.js
+  run: node index.js
+
